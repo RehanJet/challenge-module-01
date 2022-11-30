@@ -2,20 +2,21 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+To increase the pace of customers finding the things they need as easy as a button from wherever they are.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+- Making a search engine that is quick and fast to locate whatever it is that you need.
+
+- Built the website to show the dominanace of resources while searching for the things that you need, and why social media marketing is a big resource.
+
+-Solves the issue of doing less work but a more efficient way of finding customers to see your website.
 
 ## Usage
 
-[Github Page Adress]() 
+[Github Page Adress](https://github.com/RehanJet/challenge-module-01) 
 
 ### Screenshot
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![screenshot](assets/images/Screenshot.png)
 
     ```md
      ![alt text](assets/images/screenshot.png)
